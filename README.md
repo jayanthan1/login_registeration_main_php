@@ -1,4 +1,4 @@
-PHP Login and Registration System With MySQL Database - For Beginners
+PHP Login and Registration System With MySQL Database
 =========
 
 A simple login and register system with PHP, MySQL and jQuery (AJAX) using Bootstrap 3 for the form design.
